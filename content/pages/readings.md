@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 921b599a-3bbc-ba3f-e99c-7d2cd66c3441
 ---
@@ -13,7 +16,7 @@ Banin, E., M. L. Vasil, and E. P. Greenberg. "[Iron and _Pseudomonas Aeruginosa_
 
 Barton, H. A., Z. Johnson, C. D. Cox, A. I. Vasil, and M. L. Vasil. "[Ferric Uptake Regulator Mutants of _Pseudomonas Aeruginosa_ with Distinct Alterations in the Iron-Dependent Repression of Exotoxin A and Siderophores in Aerobic and Microaerobic Environments](https://onlinelibrary.wiley.com/doi/epdf/10.1046/j.1365-2958.1996.381426.x)." _Molecular Microbiology_ 21, no. 5 (1996): 1001-17.
 
-Cherepanov, P. P., and W. Wackernagel. "[Gene Disruption in _Escherichia Coli_: TcR and KmR Cassettes with the Option of Flp-Catalyzed Excision of the Antibiotic-Resistance Determinant](http://www.ncbi.nlm.nih.gov/pubmed/7789817)." _Gene_ 158 (1005): 9-14.
+Cherepanov, P. P., and W. Wackernagel. "[Gene Disruption in _Escherichia Coli_: Tc{{< sup "R" >}} and Km{{< sup "R" >}} Cassettes with the Option of Flp-Catalyzed Excision of the Antibiotic-Resistance Determinant](http://www.ncbi.nlm.nih.gov/pubmed/7789817)." _Gene_ 158 (1005): 9-14.
 
 Choi, K., and H. P. Schweizer. "[Mini-Tn7 Insertion in Bacteria with Single _att_Tn7 Sites: Example _Pseudomonas Aeruginosa_](http://www.nature.com/nprot/journal/v1/n1/abs/nprot.2006.24.html)." _Nature Protocols_ 1, no. 1 (2006): 153-61.
 

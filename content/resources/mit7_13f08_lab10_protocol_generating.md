@@ -2,8 +2,13 @@
 content_type: resource
 description: Laboratory protocol for a student research project on examining the biology
   of Pseudomonas aeruginosa.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-13-experimental-microbial-genetics-fall-2008/8fda6dd449e20e6e984788cf38ccb8da_MIT7_13f08_lab10_Protocol_Generating.pdf
+file: /media/courses/7-13-experimental-microbial-genetics-fall-2008/8fda6dd449e20e6e984788cf38ccb8da_MIT7_13f08_lab10_Protocol_Generating.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: Generating and screening for mutants in Fur
 uid: 8fda6dd4-49e2-0e6e-9847-88cf38ccb8da

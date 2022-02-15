@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Molecular Biology Boot Camp
 uid: 8b8c67c5-2b7e-0028-0473-e7766bb5c78b
 ---
@@ -29,7 +31,7 @@ BOOT CAMP PROTOCOLS
 {{< tdopen >}}
 
 
-Start 150 ml culture of E. coli + pMQ64 in LB+30 ug/ml gentamicin
+Start 150 ml culture of E. coli + pMQ64 in LB{{< sup "+" >}}30 ug/ml gentamicin
 
 Streak out PA14 from cryo-stock, put stock in own box in freezer
 
@@ -47,7 +49,7 @@ Day 1 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab29))
 {{< tdopen >}}
 
 
-Maxi prep of E. coli+pMQ64 culture
+Maxi prep of E. coli{{< sup "+" >}}pMQ64 culture
 
 Set up digest of pMQ64 with BamHI
 
@@ -93,7 +95,7 @@ Set up your partial digest with BfuCI
 
 Load and run diagnostic gel
 
-Image 1st gel, analyze
+Image 1{{< sup "st" >}} gel, analyze
 
 Set up upscaled digests
 
@@ -167,7 +169,7 @@ Play with DNAStar
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Days 7-8 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab35))
 {{< tdclose >}}
 
