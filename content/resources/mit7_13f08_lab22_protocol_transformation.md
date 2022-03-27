@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Transforming DH5a-T1R Chemically Competent Cells
 uid: 1c3724c1-38cd-4d9b-d6c6-5a1a28a77d4c

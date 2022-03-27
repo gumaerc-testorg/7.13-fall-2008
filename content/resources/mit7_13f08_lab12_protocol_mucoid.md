@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Mucoid Colony Assay
 uid: 9e08cecb-57f1-1c7e-3ce4-3b7e5995dc26

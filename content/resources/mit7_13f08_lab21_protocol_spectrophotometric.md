@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: UV spectrophotometric measurement of DNA concentration and purity
 uid: af4e3144-909d-f081-4747-8e27572de5df

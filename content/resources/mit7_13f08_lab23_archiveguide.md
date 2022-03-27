@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Archiving the tools you make this term
 uid: 8f6d4789-f2e1-1926-7fb8-3e9daa4b9f12

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: CAS Agar for Pseudomonas
 uid: 59fdd3ac-7031-1dd3-e0c1-7ea72967988b

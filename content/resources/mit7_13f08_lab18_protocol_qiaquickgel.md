@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: QIAquick Gel Extraction Kit Protocol
 uid: 67c25dd5-e10d-0b61-3011-fc3821f400e8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: QIAquick PCR & Enzyme Purification Kit Protocol
 uid: 6400cdc0-18ef-9a63-c2a7-4005ecbe67db

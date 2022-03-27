@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Care and Handling of PA01 fur mutants
 uid: 8ca885d4-c7c0-7faf-9c46-6001d50101dd

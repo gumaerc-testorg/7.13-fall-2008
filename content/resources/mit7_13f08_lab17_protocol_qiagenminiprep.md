@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Plasmid DNA Purification Using the QIAprep Spin Miniprep Kit and a Microcentrifuge
 uid: 87f4a701-c5ee-b778-a7be-7161437cfb3f

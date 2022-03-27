@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Plasmid or Cosmid DNA Purification Using HiSpeed Plasmid Midi and Maxi Kits
 uid: 72073fef-93d1-3a28-a5e1-aa3e56b5b40c

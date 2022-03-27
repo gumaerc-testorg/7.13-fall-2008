@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1932b2cf-7f49-b7bd-643e-61dc06922016
 resourcetype: Document
 title: Writing a Primary Research Report (a scientific paper)
 uid: 8998dafe-18e2-bcf7-1b7a-b02d0b51702d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Primer Design Guidelines for PCR Reactions
 uid: 628777f8-4d1f-3ad0-70d8-954e982aa0b4
