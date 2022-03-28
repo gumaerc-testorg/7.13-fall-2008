@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Molecular Biology Boot Camp
 uid: 8b8c67c5-2b7e-0028-0473-e7766bb5c78b
 ---
@@ -38,7 +39,7 @@ Streak out PA14 from cryo-stock, put stock in own box in freezer
 
 {{< tdclose >}}
 {{< tdopen >}}
-Day 1 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab29))
+Day 1 ({{< resource_link a09a20c0-e105-46bb-ef66-e9caa26c4548 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ Start overnight wt PA14, incubate in roller drum at 37°C
 
 {{< tdclose >}}
 {{< tdopen >}}
-Day 2 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab30))
+Day 2 ({{< resource_link 3f1ecde1-7437-6e9f-4473-e81ea852583c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +79,7 @@ Pour 2 agarose gels
 
 {{< tdclose >}}
 {{< tdopen >}}
-Day 3 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab31))
+Day 3 ({{< resource_link 3ae8276d-a52c-1721-b97a-e21487f47346 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Image gel and cut out correct fragment size band from gel. Freeze at -20°C
 
 {{< tdclose >}}
 {{< tdopen >}}
-Day 4 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab32))
+Day 4 ({{< resource_link d1d6f32e-f21f-0cb7-c1e6-22ea8a875b5e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Plate 2x, 150 ul (20 plates/group)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Day 5 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab33))
+Day 5 ({{< resource_link 5d80eae3-ee9e-d193-6ea7-6a80f92ee63b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +151,7 @@ Pool colonies from appropriate number of plates and mini prep to purify plasmid 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Day 6 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab34))
+Day 6 ({{< resource_link 0da937bd-91f0-d443-ec88-c9270b3a3d0f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +171,7 @@ Play with DNAStar
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Days 7-8 ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab35))
+Days 7-8 ({{< resource_link 5c48ef58-5f0c-f2f4-3e60-e5418f347f5c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

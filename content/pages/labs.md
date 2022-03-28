@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
+parent_uid: null
 title: Labs
 uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 ---
@@ -16,14 +17,14 @@ The experiments described in these materials are potentially hazardous and requi
 Research Projects
 -----------------
 
-You will be doing real research in this lab. Each research project will center on examining the biology of Pseudomonas aeruginosa. However, each team will be designing their own laboratory experiments to research different aspects of the bacterium. Students will choose from a list of possible projects ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab01_projectsummaries)).
+You will be doing real research in this lab. Each research project will center on examining the biology of Pseudomonas aeruginosa. However, each team will be designing their own laboratory experiments to research different aspects of the bacterium. Students will choose from a list of possible projects ({{< resource_link cc162861-fc78-4b2f-4df7-d919c1c9f9ae "PDF" >}}).
 
 Lab Notebooks
 -------------
 
 Your notebook should be a complete record of all your experiments as they were actually performed. A good notebook will enable someone to reconstruct, long after the fact, exactly what was done and why.
 
-Information on the Experimental Microbial Genetics Lab Notebook ([PDF]({{< baseurl >}}/resources/mit7_13f08_res01))
+Information on the Experimental Microbial Genetics Lab Notebook ({{< resource_link 6a453b59-48b7-1cd3-7eff-e3af62df6250 "PDF" >}})
 
 Protocols
 ---------
@@ -48,7 +49,7 @@ DOCUMENTATION
 Agarose gel electrophoresis and DNA band excision
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab02_protocol_agarose))
+({{< resource_link 9f137ac6-5728-9c6b-715a-e11f7aa18568 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +67,7 @@ Antarctic phosphatase
 Biofilm plate assay
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab03_protocol_biofilm))
+({{< resource_link 01879a24-57cd-0b07-bdfb-175dd68af9e3 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +76,7 @@ Biofilm plate assay
 Care and handling of PA01 fur mutants
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab04_protocol_care))
+({{< resource_link 8ca885d4-c7c0-7faf-9c46-6001d50101dd "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +85,7 @@ Care and handling of PA01 fur mutants
 CAS agar plates for pseudomonas — high and low fe
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab05_protocol_cas))
+({{< resource_link 59fdd3ac-7031-1dd3-e0c1-7ea72967988b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +103,7 @@ Current protocols online
 Characterization of phenazines in pseudomonas
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab06_protocol_characterization))
+({{< resource_link da61c880-ec34-c90e-a56c-21f441708795 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes i
 Dephosphorylating with CIP & T4 ligation reactions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab07_protocol_dephosphorylating))
+({{< resource_link 83fd07a4-4675-f448-be69-774d645f798a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +139,7 @@ Dephosphorylating with CIP & T4 ligation reactions
 Designing primers for PCR
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab08_protocol_designing))
+({{< resource_link 628777f8-4d1f-3ad0-70d8-954e982aa0b4 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +148,7 @@ Designing primers for PCR
 DIC & fluorescence microscopy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab09_protocol_dic))
+({{< resource_link dda8eb51-ef8d-e617-6d20-5e85180df330 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +157,7 @@ DIC & fluorescence microscopy
 Generating and screening for mutants in fur
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab10_protocol_generating))
+({{< resource_link 8fda6dd4-49e2-0e6e-9847-88cf38ccb8da "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +193,7 @@ MegaX DH10B T1R electrocomp cells
 Motility assays
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab11_protocol_motility))
+({{< resource_link 506e0afe-cb94-8b99-51cb-8c692083186d "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +229,7 @@ PA14 Tn mutant library
 PCR with platinum PCR super mix
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab13_protocol_pcr))
+({{< resource_link 6c8c5cc1-1808-05c3-cd70-b4038313e96f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +238,7 @@ PCR with platinum PCR super mix
 Plate cell counts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab14_protocol_plate))
+({{< resource_link 5af30123-197a-f1da-74ca-3be65c20b9ff "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +247,7 @@ Plate cell counts
 Pseudomonas electroporations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab15_protocol_pseudomonas))
+({{< resource_link bf315d45-2f42-2427-d923-5a961fd25602 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +256,7 @@ Pseudomonas electroporations
 Qiagen hispeed plasmid midi and maxi kits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab16_protocol_qiagenhispeed))
+({{< resource_link 72073fef-93d1-3a28-a5e1-aa3e56b5b40c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +265,7 @@ Qiagen hispeed plasmid midi and maxi kits
 Qiagen miniprep kit protocol
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab17_protocol_qiagenminiprep))
+({{< resource_link 87f4a701-c5ee-b778-a7be-7161437cfb3f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +274,7 @@ Qiagen miniprep kit protocol
 Qiagen QIAquick gel extraction protocol
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab18_protocol_qiaquickgel))
+({{< resource_link 67c25dd5-e10d-0b61-3011-fc3821f400e8 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +283,7 @@ Qiagen QIAquick gel extraction protocol
 Qiagen QIAquick PCR reaction & enzyme purification kit protocol
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab19_protocol_qiaquickpcr))
+({{< resource_link 6400cdc0-18ef-9a63-c2a7-4005ecbe67db "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +292,7 @@ Qiagen QIAquick PCR reaction & enzyme purification kit protocol
 Restriction enzyme digests
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab20_protocol_restriction))
+({{< resource_link 7ea1e12a-2e65-41e0-afa9-ff018828cc09 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +319,7 @@ SAP — shrimp alkaline phosphotase
 Spectrophotometric determination of DNA concentration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab21_protocol_spectrophotometric))
+({{< resource_link af4e3144-909d-f081-4747-8e27572de5df "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,7 +355,7 @@ TOPO TA PCR cloning kit
 Transformation of DH5a-T1R chemically competent cells
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit7_13f08_lab22_protocol_transformation))
+({{< resource_link 1c3724c1-38cd-4d9b-d6c6-5a1a28a77d4c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -375,15 +376,15 @@ Archives
 
 You will be required to archive the strain and plasmids you construct during the semester.
 
-*   Guidelines for archiving with strain and plasmid list template ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab23_archiveguide))
-*   Archive example for plasmid sequence and map ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab24_archiveexample))
+*   Guidelines for archiving with strain and plasmid list template ({{< resource_link 8f6d4789-f2e1-1926-7fb8-3e9daa4b9f12 "PDF" >}})
+*   Archive example for plasmid sequence and map ({{< resource_link 6984a8b2-01c8-3b74-0fc0-4f6a06e369c4 "PDF" >}})
 
 Supplementary Files
 -------------------
 
-*   Results from phenazine screen on tryptone plates ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab25_phenazinescreen))
-*   List of common primers ([XLS]({{< baseurl >}}/resources/common_primers))
-*   pUCP18 sequence ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab26_ppup18_sequence))
+*   Results from phenazine screen on tryptone plates ({{< resource_link a49f3e15-9a39-7e21-8193-928f878da814 "PDF" >}})
+*   List of common primers ({{< resource_link 0f206418-b4de-e875-e180-65e4276a35ca "XLS" >}})
+*   pUCP18 sequence ({{< resource_link 45ced4ab-7d28-1988-53ee-b4b28b55890b "PDF" >}})
 *   [pUCP18 map](http://www.snapgene.com/resources/plasmid_files/basic_cloning_vectors/pUC18/)
-*   pMQ64 sequence ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab27_pmq64_sequence))
-*   pMQ64 map ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab28_pmq64_map))
+*   pMQ64 sequence ({{< resource_link b9f4ac1e-e73d-e694-cdc7-283bd2e1381e "PDF" >}})
+*   pMQ64 map ({{< resource_link 14df6a57-a42a-0e81-c2d3-daa124bbf26a "PDF" >}})
