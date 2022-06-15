@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, an overview of
+  course components, and information on expectations, laboratory work, oral presentations,
+  writing requirements, readings, grading policy, lab hours, attendance, and mid-term
+  evaluation.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 705300a5-80aa-eec9-2f8f-9345f257d409
 ---

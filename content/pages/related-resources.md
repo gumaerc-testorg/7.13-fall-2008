@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources on experimental microbial
+  genetics.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: 563105bb-dcc4-f66c-0121-febd2513d1d8
 ---
