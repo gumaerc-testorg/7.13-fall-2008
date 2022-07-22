@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/7ea1e12a2e6541e0af
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Restriction digests
 uid: 7ea1e12a-2e65-41e0-afa9-ff018828cc09
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

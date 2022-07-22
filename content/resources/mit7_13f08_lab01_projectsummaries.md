@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/cc162861fc784b2f4d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Project List
 uid: cc162861-fc78-4b2f-4df7-d919c1c9f9ae
 ---
 A list of possible research projects on examining the biology of Pseudomonas aeruginosa.
-

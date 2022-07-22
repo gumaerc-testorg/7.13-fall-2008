@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/506e0afecb948b9951
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Motility Assays
 uid: 506e0afe-cb94-8b99-51cb-8c692083186d
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

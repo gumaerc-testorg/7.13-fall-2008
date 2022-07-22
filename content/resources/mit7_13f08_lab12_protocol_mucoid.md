@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/9e08cecb57f11c7e3c
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mucoid Colony Assay
 uid: 9e08cecb-57f1-1c7e-3ce4-3b7e5995dc26
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/a49f3e159a397e2181
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Results from phenazine screen on tryptone plates
 uid: a49f3e15-9a39-7e21-8193-928f878da814
 ---
 Supplementary file for a research project on examining the biology of Pseudomonas aeruginosa. Results from phenazine screen on tryptone plates.
-

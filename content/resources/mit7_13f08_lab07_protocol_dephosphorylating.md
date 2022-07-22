@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/83fd07a44675f448be
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Dephosphorylating with CIP and Ligation Reactions
 uid: 83fd07a4-4675-f448-be69-774d645f798a
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

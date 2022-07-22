@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/01879a2457cd0b07bd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Biofilm Assay
 uid: 01879a24-57cd-0b07-bdfb-175dd68af9e3
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

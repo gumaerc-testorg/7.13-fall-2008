@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/67c25dd5e10d0b6130
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: QIAquick Gel Extraction Kit Protocol
 uid: 67c25dd5-e10d-0b61-3011-fc3821f400e8
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/59fdd3ac70311dd3e0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: CAS Agar for Pseudomonas
 uid: 59fdd3ac-7031-1dd3-e0c1-7ea72967988b
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

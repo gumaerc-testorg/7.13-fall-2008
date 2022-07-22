@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/87f4a701c5eeb778a7
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Plasmid DNA Purification Using the QIAprep Spin Miniprep Kit and a Microc
 uid: 87f4a701-c5ee-b778-a7be-7161437cfb3f
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

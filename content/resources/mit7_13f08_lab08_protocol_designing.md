@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/628777f84d1f3ad070
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Primer Design Guidelines for PCR Reactions
 uid: 628777f8-4d1f-3ad0-70d8-954e982aa0b4
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/b9f4ac1ee73de694cd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pMQ64 sequence
 uid: b9f4ac1e-e73d-e694-cdc7-283bd2e1381e
 ---
 Supplementary file for a research project on examining the biology of Pseudomonas aeruginosa. Shuttle vector pMQ64, complete sequence.
-

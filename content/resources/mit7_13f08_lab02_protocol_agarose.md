@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/9f137ac657289c6b71
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Agarose Gel Electrophoresis and DNA Band Excision
 uid: 9f137ac6-5728-9c6b-715a-e11f7aa18568
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

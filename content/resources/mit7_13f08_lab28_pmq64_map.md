@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/14df6a57a42a0e81c2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pMQ64 map
 uid: 14df6a57-a42a-0e81-c2d3-daa124bbf26a
 ---
 Supplementary file for a research project on examining the biology of Pseudomonas aeruginosa.
-

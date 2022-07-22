@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/bf315d452f422427d9
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Pseudomonas Electroporations
 uid: bf315d45-2f42-2427-d923-5a961fd25602
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

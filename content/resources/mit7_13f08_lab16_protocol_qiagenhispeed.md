@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/72073fef93d13a28a5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Plasmid or Cosmid DNA Purification Using HiSpeed Plasmid Midi and Maxi Ki
 uid: 72073fef-93d1-3a28-a5e1-aa3e56b5b40c
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

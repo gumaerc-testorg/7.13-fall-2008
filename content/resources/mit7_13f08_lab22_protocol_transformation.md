@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/1c3724c138cd4d9bd6
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Transforming DH5a-T1R Chemically Competent Cells
 uid: 1c3724c1-38cd-4d9b-d6c6-5a1a28a77d4c
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/dda8eb51ef8de6176d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Digital Optical Microscopy
 uid: dda8eb51-ef8d-e617-6d20-5e85180df330
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-

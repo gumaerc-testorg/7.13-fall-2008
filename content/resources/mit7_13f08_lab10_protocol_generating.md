@@ -6,6 +6,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2008/8fda6dd449e20e6e98
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Generating and screening for mutants in Fur
 uid: 8fda6dd4-49e2-0e6e-9847-88cf38ccb8da
 ---
 Laboratory protocol for a student research project on examining the biology of Pseudomonas aeruginosa.
-
