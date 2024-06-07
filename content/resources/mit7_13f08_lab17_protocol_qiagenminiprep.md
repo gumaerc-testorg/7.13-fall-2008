@@ -3,6 +3,7 @@ content_type: resource
 description: Laboratory protocol for a student research project on examining the biology
   of Pseudomonas aeruginosa.
 file: /courses/7-13-experimental-microbial-genetics-fall-2008/87f4a701c5eeb778a7be7161437cfb3f_MIT7_13f08_lab17_Protocol_QiagenMiniprep.pdf
+file_size: 103300
 file_type: application/pdf
 learning_resource_types:
 - Labs
