@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of possible research projects on examining the biology of Pseudomonas
   aeruginosa.
-file: /courses/7-13-experimental-microbial-genetics-fall-2008/cc162861fc784b2f4df7d919c1c9f9ae_MIT7_13f08_lab01_ProjectSummaries.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2008/cc162861fc784b2f4df7d919c1c9f9ae_MIT7_13f08_lab01_ProjectSummaries.pdf
 file_size: 82548
 file_type: application/pdf
 learning_resource_types:
