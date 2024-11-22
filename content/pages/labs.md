@@ -14,7 +14,7 @@ uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 
 The experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.
 
-[Legal Notice](/terms/)
+[Legal Notice](https://ocw-studio.odl.mit.edu/terms/)
 
 ## Research Projects
 
@@ -113,7 +113,7 @@ NEB T4 DNA ligase
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 PA14 Tn mutant library
 {{< tdclose >}}{{< tdopen >}}
-([PDF](http://ausubellab.mgh.harvard.edu/pa14/downloads/manual.pdf))
+([PDF](https://pa14.mgh.harvard.edu/cgi-bin/pa14/home.cgi))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 PCR with platinum PCR super mix
 {{< tdclose >}}{{< tdopen >}}
