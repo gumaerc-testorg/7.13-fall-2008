@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory protocol for a student research project on examining the biology
   of Pseudomonas aeruginosa.
-file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2008/7ea1e12a2e6541e0afa9ff018828cc09_MIT7_13f08_lab20_Protocol_Restriction.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2008/7ea1e12a2e6541e0afa9ff018828cc09_MIT7_13f08_lab20_Protocol_Restriction.pdf
 file_size: 90873
 file_type: application/pdf
 learning_resource_types:
