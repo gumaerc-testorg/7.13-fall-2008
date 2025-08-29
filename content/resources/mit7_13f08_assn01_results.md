@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines for writing the results, discussion, and abstract, and for
   designing and labeling figures, for the writing assignments of the course.
-file: /courses/7-13-experimental-microbial-genetics-fall-2008/5c3c540b86fbba3b6d762225ccfb59d8_MIT7_13f08_assn01_Results.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2008/5c3c540b86fbba3b6d762225ccfb59d8_MIT7_13f08_assn01_Results.pdf
 file_size: 308121
 file_type: application/pdf
 learning_resource_types:

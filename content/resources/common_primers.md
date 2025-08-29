@@ -2,11 +2,11 @@
 content_type: resource
 description: A list of of common primers provided as a supplementary file for a research
   project on examining the biology of Pseudomonas aeruginosa.
-file: /courses/7-13-experimental-microbial-genetics-fall-2008/0f206418b4dee875e18065e4276a35ca_Common_Primers.xls
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2008/0f206418b4dee875e18065e4276a35ca_Common_Primers.xls
 file_size: 25600
 file_type: application/msword
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
